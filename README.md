@@ -71,5 +71,4 @@ Vitality Hub – Wellness-oriented platform
 ✨ Fun Fact
 
 💡 I enjoy turning ideas into real products and love clean UI + smooth UX.
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&section=footer"/> </p> ```
+```
