@@ -47,13 +47,6 @@ she/her
 
 ---
 
-## 📊 GitHub Stats
-![Tithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tithi0126&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tithi0126&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let’s Connect
 - GitHub: [@tithi0126](https://github.com/tithi0126)
 
