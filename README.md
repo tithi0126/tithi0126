@@ -9,7 +9,6 @@ she/her
 - Passionate developer with experience in **Web, Mobile, and Backend development**
 - Love building meaningful products like **InnerVoice**, productivity tools, and real-world applications
 - Currently exploring **scalable systems, UI/UX, and performance optimization**
-- Part of **@Aangan-Developers** & **@30-dqays-challenge**
 
 ---
 
