@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tithishah.cloud/profile_photo.jpg" width="180" alt="Tithi Shah" style="border-radius: 50%; margin-bottom: 20px;" />
+  <!-- <img src="https://tithishah.cloud/profile_photo.jpg" width="180" alt="Tithi Shah" style="border-radius: 50%; margin-bottom: 20px;" /> -->
   <h1>Hi, I'm Tithi Shah! 👋</h1>
   <h3>Full-Stack & Flutter Developer</h3>
   <p><i>A passionate developer crafting premium web and mobile experiences from India 🇮🇳</i></p>
