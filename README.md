@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tithi0126&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Tithi's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tithi0126&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Tithi's GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tithi0126&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="Tithi's GitHub Streak" />
 </div>
 
